@@ -5,6 +5,9 @@
 
 ### Hi there 👋
 
+[![Twitter: imonsh](https://img.shields.io/twitter/follow/imonsh?style=social)](https://twitter.com/imonsh)
+[![Linkedin: Victor Manuel Nuñez Salas](https://img.shields.io/badge/-victor-manuel-nuñez-salas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-manuel-nuñez-salas/)](https://www.linkedin.com/in/victor-manuel-nu%C3%B1ez-salas/)
+[![GitHub VictorManuelSalas](https://img.shields.io/github/followers/VictorManuelSalas?label=follow&style=social)](https://github.com/VictorManuelSalas)
 
 **VictorManuelSalas/VictorManuelSalas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
