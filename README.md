@@ -58,7 +58,10 @@ const Victor = {
 ```
 <br>
 <div align='center' >
-<img  src="https://i.pinimg.com/originals/ce/a5/cb/cea5cba8e1b097805c3a54ec6e59a21a.gif" width="150" />
+  <img  src="https://i.pinimg.com/originals/ce/a5/cb/cea5cba8e1b097805c3a54ec6e59a21a.gif" width="150" />
 
-"The only goal you can’t accomplish is the one you don’t go after"
-  </div>
+  "The only goal you can’t accomplish is the one you don’t go after"
+ </div>
+
+---
+✨ Created by [@Victor](https://github.com/VictorManuelSalas)
