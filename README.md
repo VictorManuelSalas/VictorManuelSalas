@@ -36,18 +36,8 @@ Here are some ideas to get you started:
 const Victor = {
   pronouns: 'He' | 'Him',
   code: ['Javascript','HTML', 'CSS', 'Python', 'Java', 'C#', 'PHP'], 
-  tools: ['Node', 'Mongo', 'Flask', 'Azure', 'IBM Watson', 'Dialogflow','GCP', 'Embedded Systems'],
+  tools: ['Node', 'MySql', 'SQLServer', 'Figma', 'Visual Studio Code',
   areas: ['Frontend', 'Database', 'Design'],
-  techCommunities: {
-                        host: 'LatinXperts',
-                        organizer: 'Bravers', 'Hack DHI' 'Azure Capital', 'Hackathon Innovaccion Virtual',
-                        events: 'Hack DHI', 'Nasa Space Apps', 'Office 365 Capital', 'LHD Tec León', 'and many collabs',
-                        speaker: 'DroidCon', 'PyCon Latam', 'CONISOFT', 'OctogatosConf','Streamyard Level Up Summit',
-                        mentor: 'in a lot of hackathons'
-                      },
-                      
- challenge: 'I'm a Learning producer at Launch X by Innovacción Virtual - Microsoft a program with around 200k attendees for the next 3 months... '
-}
 ```
 
 
