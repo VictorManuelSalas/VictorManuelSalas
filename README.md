@@ -1,6 +1,12 @@
 
-<h1>Hi there 👋, I'm Victor Manuel Nuñez Salas</h1>
+<h1>Hi there 👋, I'm Victor Manuel Nuñez Salas</h1> <br>
 
+<div align='center' >
+<img  src="https://prezigram-assets.prezicdn.net/7543a29d027e1ef78f2dad7c98409f680532c56d4e515ca8065249d304d41dbd933bd9b377e4369dde6fb2c541e55fe7eaebfe2661441168829a7e339b47f96f" width="200" />
+</div>
+
+<p align='center'>Information Technology Engineer 🎓 &nbsp;&nbsp;|&nbsp;&nbsp; Still Learning ✍🏼&nbsp;&nbsp;|&nbsp;&nbsp; Passion for technology 👨‍💻</p>
+<br>
 <!--
 # `README.md` IN PROCESS <img src="https://ecommerce.zeyco.com/LOADER_mm.gif" width="70" />
 
@@ -22,7 +28,10 @@
 [![GitHub VictorManuelSalas](https://img.shields.io/github/followers/VictorManuelSalas?label=follow&style=social)](https://github.com/VictorManuelSalas)
 [![Linkedin: VictorManuelSalas](https://img.shields.io/badge/-VictorManuelSalas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-manuel-nuñez-salas/)](https://www.linkedin.com/in/victor-manuel-nuñez-salas/)
 
-***Programming languages learned.***
+***Programming languages learned and more.***
+<br>
+
+
 ![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java)
 ![C#](https://img.shields.io/badge/C++-blue.svg?style=flat-square&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python&logoColor=green)
@@ -33,6 +42,8 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=flat-square&logo=mysql&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-E44C30?style=flat-square&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
+
+
 
 ---
 ***A little more about me in code...***
@@ -46,7 +57,8 @@ const Victor = {
   }
 ```
 <br>
+<div align='center' >
+<img  src="https://i.pinimg.com/originals/ce/a5/cb/cea5cba8e1b097805c3a54ec6e59a21a.gif" width="150" />
 
-<img src="https://i.pinimg.com/originals/ce/a5/cb/cea5cba8e1b097805c3a54ec6e59a21a.gif" width="150" />
-
->The only goal you can’t accomplish is the one you don’t go after 
+"The only goal you can’t accomplish is the one you don’t go after"
+  </div>
