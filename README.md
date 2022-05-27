@@ -1,13 +1,16 @@
 # `README.md` IN PROCESS <img src="https://ecommerce.zeyco.com/LOADER_mm.gif" width="70" />
 
-<h1>Hi there 👋, I'm Victor Manuel Salas</h1>
+<h1>Hi there 👋, I'm Victor Manuel Nuñez Salas</h1>
 <img src="https://www.bing.com/th/id/OGC.a68130179ec9bebd0fe70bf7542d6ef8?pid=1.7&rurl=https%3a%2f%2fgifimage.net%2fwp-content%2fuploads%2f2017%2f11%2fimagenes-gif-pinterest-12.gif&ehk=%2fB7%2bsfVKXguKYt3dLp4fQq45BcGIPsbYLFDZxatXboQ%3d" width="80"/>
 
 <img align='right' src="https://www.bing.com/th/id/OGC.5ab3441d2c16133517a2617e5c43457c?pid=1.7&rurl=https%3a%2f%2fi.kinja-img.com%2fgawker-media%2fimage%2fupload%2fs--DV8J5N_I--%2fc_scale%2cfl_progressive%2cq_80%2cw_800%2firgwz4thubaadkxhifes.gif&ehk=xd1q4G6vlngeW65DoHosp2oAueo0J8if6uCWVqqQAYY%3d" width="400"/>
 
+<!--
 ### Hi there 👋
 ## Welcome 👋
 # to my `README.md` 👋
+-->
+
 
 <!--[![Twitter: prueba](https://img.shields.io/twitter/follow/usuario?style=social)](https://twitter.com/usuario)-->
 
@@ -28,13 +31,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-<!--
+
 ```javascript
-const Fer = {
-  pronouns: 'She' | 'Her',
-  code: ['Javascript','HTML', 'CSS', 'Python', 'Java', 'C++'], 
+const Victor = {
+  pronouns: 'He' | 'Him',
+  code: ['Javascript','HTML', 'CSS', 'Python', 'Java', 'C#', 'PHP'], 
   tools: ['Node', 'Mongo', 'Flask', 'Azure', 'IBM Watson', 'Dialogflow','GCP', 'Embedded Systems'],
-  areas: ['IoT', 'Chatbots', 'Electronics', 'Cloud', 'Data'],
+  areas: ['Frontend', 'Database', 'Design'],
   techCommunities: {
                         host: 'LatinXperts',
                         organizer: 'Bravers', 'Hack DHI' 'Azure Capital', 'Hackathon Innovaccion Virtual',
@@ -42,8 +45,9 @@ const Fer = {
                         speaker: 'DroidCon', 'PyCon Latam', 'CONISOFT', 'OctogatosConf','Streamyard Level Up Summit',
                         mentor: 'in a lot of hackathons'
                       },
+                      
  challenge: 'I'm a Learning producer at Launch X by Innovacción Virtual - Microsoft a program with around 200k attendees for the next 3 months... '
 }
 ```
 
--->
+
