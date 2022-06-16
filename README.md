@@ -52,7 +52,7 @@
 const Victor = {
   pronouns: 'He' | 'Him',
   code: ['Javascript','HTML', 'CSS', 'Python', 'Java', 'C#', 'PHP'], 
-  tools: ['Node', 'MySql', 'SQLServer', 'Figma', 'Visual Studio Code'],
+  tools: ['Node', 'MySql', 'SQLServer', 'Figma', 'Visual Studio Code', 'Android Studio'],
   areas: ['Frontend', 'Database', 'Design']
   }
 ```
