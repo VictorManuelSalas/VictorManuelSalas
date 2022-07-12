@@ -44,6 +44,11 @@
 ![Github](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-%20-green)
 
+---
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=VictorManuelSalas&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=VictorManuelSalas&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorManuelSalas&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 ---
