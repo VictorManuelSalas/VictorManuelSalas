@@ -37,12 +37,13 @@
 ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python&logoColor=green)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/-SCSS-%23BA175C)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![Figma](https://img.shields.io/badge/Figma-007ACC?style=flat-square&logo=figma&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=flat-square&logo=mysql&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-E44C30?style=flat-square&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-%20-green)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-green)
 
 ---
 # 📊 GitHub Stats:
