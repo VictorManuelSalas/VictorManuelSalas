@@ -28,6 +28,22 @@
 [![GitHub VictorManuelSalas](https://img.shields.io/github/followers/VictorManuelSalas?label=follow&style=social)](https://github.com/VictorManuelSalas)
 [![Linkedin: VictorManuelSalas](https://img.shields.io/badge/-VictorManuelSalas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-manuel-nuñez-salas/)](https://www.linkedin.com/in/victor-manuel-nuñez-salas/)
 
+
+<!--Presentation -->
+✨ Some about me:
+
+I'm currently studying Information Technology Engineering.
+
+- I have a :dog: :hearts:
+- Love to play videogames :video_game:
+- Working on Full-stack :shipit:
+- Developer recurrently on web projects :computer:
+- If i don't know it, i'll try to learn it :feelsgood:
+- Constantly learning new things :book:
+- 😄 Pronouns: Manu
+
+
+
 ***Programming languages learned and more.***
 <br>
 
