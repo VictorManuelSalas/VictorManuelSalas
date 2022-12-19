@@ -74,8 +74,8 @@ I'm currently studying Information Technology Engineering.
 ```javascript
 const Victor = {
   pronouns: 'He' | 'Him',
-  code: ['Javascript','HTML', 'CSS', 'Python', 'Java', 'C#', 'PHP'], 
-  tools: ['Node', 'MySql', 'SQLServer', 'Figma', 'Visual Studio Code', 'Android Studio'],
+  code: ['Javascript','HTML', 'CSS', 'SASS', 'Angular', 'React', 'Ionic Framework', 'Python', 'Java', 'C#', 'PHP'], 
+  tools: ['Node', 'MySql', 'SQLServer', 'JSON', 'Figma', 'Visual Studio Code', 'Android Studio'],
   areas: ['Frontend', 'Database', 'Design']
   }
 ```
