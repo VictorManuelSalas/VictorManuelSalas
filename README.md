@@ -40,7 +40,6 @@ I'm currently studying Information Technology Engineering.
 - Developer recurrently on web projects :computer:
 - If i don't know it, i'll try to learn it :feelsgood:
 - Constantly learning new things :book:
-- 😄 Pronouns: Manu
 
 
 
