@@ -5,7 +5,7 @@
 <img  src="https://prezigram-assets.prezicdn.net/7543a29d027e1ef78f2dad7c98409f680532c56d4e515ca8065249d304d41dbd933bd9b377e4369dde6fb2c541e55fe7eaebfe2661441168829a7e339b47f96f" width="200" />
 </div>
 
-<p align='center'>Information Technology Engineer 🎓 &nbsp;&nbsp;|&nbsp;&nbsp; Still Learning ✍🏼&nbsp;&nbsp;|&nbsp;&nbsp; Passion for technology 👨‍💻</p>
+<p align='center'>Information Technology Engineer 🎓 &nbsp;&nbsp;|&nbsp;&nbsp; Always Learning ✍🏼&nbsp;&nbsp;|&nbsp;&nbsp; Passion for technology 👨‍💻</p>
 <br>
 <!--
 # `README.md` IN PROCESS <img src="https://ecommerce.zeyco.com/LOADER_mm.gif" width="70" />
