@@ -73,7 +73,7 @@ I'm currently studying Information Technology Engineering.
 ```javascript
 const Victor = {
   pronouns: 'He' | 'Him',
-  code: ['Javascript','HTML', 'CSS', 'SASS', 'Angular', 'React', 'Ionic Framework', 'Python', 'Java', 'C#', 'PHP'], 
+  code: ['Javascript','HTML', 'CSS', 'SASS', 'Angular', 'React', 'Vue', 'Ionic Framework', 'Python', 'Java', 'C#'], 
   tools: ['Node', 'MySql', 'SQLServer', 'JSON', 'Figma', 'Visual Studio Code', 'Android Studio'],
   areas: ['Frontend', 'Database', 'Design']
   }
